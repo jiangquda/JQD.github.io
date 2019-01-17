@@ -7,9 +7,9 @@ resume_site: http://www.hifreud.com/Resume.io/
 github: https://github.com/jiangquda
 baseurl: "/LessOrMore"
 description: Actually, less is more!
-meta_description: bug�ܱȰ취��
+meta_description: bug总比办法多
 motto: It's our wits that make us men.
-banner: �
+banner: ???
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
